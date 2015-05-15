@@ -1,0 +1,2 @@
+# laraval_weixin
+这是一个使用laraval框架开发的微信管理平台系统
